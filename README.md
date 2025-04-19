@@ -4,9 +4,7 @@
  
  - <b>Microsoft Azure</b>
    - [Building Active Directory Infrastructure within Azure](https://github.com/quinnmclaughlin42/configure-ad)
-   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/quinnmclaughlin42/configure-ad)
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/quinnmclaughlin42/deploy-ad)
-   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/quinnmclaughlin42/azure-network-protocols)
    - [Network File Sharing and Permissions Through Active Directory](https://github.com/quinnmclaughlin42/ad-fileshare-permissions)
  <h2>Connect with me:</h2>
  
